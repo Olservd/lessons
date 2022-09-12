@@ -1,0 +1,16 @@
+.container{
+   max-width: 1140px;
+   margin: 0 auto;;
+}
+.story{
+   max-width: 800px;
+   margin: 0 auto;
+   text-align: justify;
+}
+.ul_three_el{
+   display: inline-flex;
+}
+.ul_three_el li{
+   list-style-type: none;
+   margin-right: 15px;
+}
